@@ -3,16 +3,17 @@
 
 # Installation
 
-Paperback is a modern, ad-free reading app for Apple devices. It offers a smooth, distraction-free experience with features like offline reading, iCloud sync, and progress tracking.
+Paperback is a modern, ad-free reading app for Apple devices. It offers a smooth,
+distraction-free experience with features like offline reading, iCloud sync, and
+progress tracking.
 
-By default, Paperback comes with no built-in content. To read anything, you’ll need to install extensions that connect to reading sources.
+By default, Paperback comes with no built-in content. To read anything, you’ll
+need to install extensions that connect to reading sources.
 
 ::: warning Apple Device Required
-Paperback is an app for Apple devices only, for Android and Windows we recommend [Mihon](https://mihon.app/) and [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) respectively.
-:::
-
-::: warning Paperback Version 0.9 Required
-Extensions listed here are compatible with Paperback version 0.9. If you're using version 0.8, join our [Discord server](https://discord.gg/inkdex) for help with older extensions.
+Paperback is an app for Apple devices only, for Android and Windows we recommend
+[Mihon](https://mihon.app/) and [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server)
+respectively.
 :::
 
 ## Extension Registry
@@ -26,12 +27,15 @@ Click the installation link below to add it to your Paperback app.
 ::: details Install Manually
 
 1. Open the Paperback app.
-2. Go to "Settings" > "Extensions" > "+" > "Source Repository".
-3. Paste `https://inkdex.github.io/extensions/0.9/stable` into the Repository Base URL field.
-   :::
+2. Go to **_Settings_** → **_Extensions_** → **_+_** → **_Source Repository_**.
+3. Paste `https://inkdex.github.io/extensions/0.9/stable` into the Repository Base
+   URL field.
 
-The registry is hosted on GitHub and can be found [here](https://github.com/inkdex/extensions). It is completely automated, for more info you can join our [Discord server](https://discord.gg/inkdex) and ask us about it!
+:::
 
-## Extension List
+The registry is hosted on GitHub and can be found in our [extension repository](https://github.com/inkdex/extensions).
+It is completely automated, for more info you can join our [Discord server](https://discord.gg/inkdex)
+and ask us about it!
 
-<ExtensionList />
+Alternatively you can view and install all our extensions individually on the [extension
+list page](/extension-list) on this website.
